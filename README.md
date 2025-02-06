@@ -1,5 +1,5 @@
 ## Hi there 💌
-
+Addy's student github; main account [here](https://github.com/afroaddy "AfroAddy Github")
 <!--
 **addysfsu/addysfsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
