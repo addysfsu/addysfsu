@@ -1,5 +1,7 @@
-## Hi there 💌
-Addy's student github; main account [here](https://github.com/afroaddy "AfroAddy Github")
+## Addy B. - B.S. Computer Engineering @ SF State 💌
+My student github! For research projects and
+
+forking personal projects originally made [here](https://github.com/afroaddy "AfroAddy Github")
 <!--
 **addysfsu/addysfsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
